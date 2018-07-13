@@ -1256,6 +1256,7 @@
 					799F99F31F1E2CDA0010B6B1 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = P8A8G8XXL8;
+						LastSwiftMigration = "";
 						ProvisioningStyle = Automatic;
 					};
 					8501D4B41F1F780200FAA7A5 = {
@@ -1686,7 +1687,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.walletone.ios.PayCardsRecognizer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1726,7 +1728,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.walletone.ios.PayCardsRecognizer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
